@@ -1,0 +1,3 @@
+Justin|money|admin
+John|man|user
+allison|richy|admin
